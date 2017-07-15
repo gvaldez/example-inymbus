@@ -1,0 +1,5 @@
+rootProject.name = 'demo'
+
+include 'library1'
+include 'library2'
+include 'application'
